@@ -1,4 +1,4 @@
-# Computer Graphics Assignment1
+# Computer Graphics Assignment2
 
 ## Overview
 
