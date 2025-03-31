@@ -3,7 +3,9 @@
 ## Overview
 
 이 프로젝트는 평면과 세 개의 구로 구성된 장면을 레이 트레이싱 알고리즘으로 렌더링하는 과제입니다. 
-Phong 모델을 기반으로 조명을 계산하며, 광원, 재질 특성(ambient, diffuse, specular), 그림자 효과 등을 모두 직접 구현합니다.
+Q1 - Phong 모델을 기반으로 조명을 계산하며, 광원, 재질 특성(ambient, diffuse, specular), 그림자 효과 등을 모두 직접 구현합니다.(컬러)
+Q2 - Gamma correction을 구현합니다.
+Q3 - Antialiasing을 구현합니다.
 
 ---
 
