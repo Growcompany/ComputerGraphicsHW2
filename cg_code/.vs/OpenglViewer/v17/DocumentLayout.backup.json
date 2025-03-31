@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphics\\Assignment1\\cg_code\\",
+  "WorkspaceRootPath": "C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphicsHW2\\cg_code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92FBD4B6-B371-475D-952F-42743525E670}|EmptyViewer\\EmptyViewer.vcxproj|C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphics\\Assignment1\\cg_code\\EmptyViewer\\Main_EmptyViewer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{92FBD4B6-B371-475D-952F-42743525E670}|EmptyViewer\\EmptyViewer.vcxproj|solutionrelative:EmptyViewer\\Main_EmptyViewer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2D9C7F58-B35F-4941-8C1D-F38E326ABA36}|ComputerGraphicsHW2_Q1\\ComputerGraphicsHW2_Q1.vcxproj|C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphicsHW2\\cg_code\\ComputerGraphicsHW2_Q1\\ComputerGraphicsHW2_Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D9C7F58-B35F-4941-8C1D-F38E326ABA36}|ComputerGraphicsHW2_Q1\\ComputerGraphicsHW2_Q1.vcxproj|solutionrelative:ComputerGraphicsHW2_Q1\\ComputerGraphicsHW2_Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A162019D-B033-46A8-9B76-188F26AC309E}|ComputerGraphicsHW2_Q3\\ComputerGraphicsHW2_Q3.vcxproj|C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphicsHW2\\cg_code\\ComputerGraphicsHW2_Q3\\ComputerGraphicsHW2_Q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A162019D-B033-46A8-9B76-188F26AC309E}|ComputerGraphicsHW2_Q3\\ComputerGraphicsHW2_Q3.vcxproj|solutionrelative:ComputerGraphicsHW2_Q3\\ComputerGraphicsHW2_Q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A2FFC5-1EDD-4C01-A531-1AD965170CEE}|ComputerGraphicsHW2_Q2\\ComputerGraphicsHW2_Q2.vcxproj|C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphicsHW2\\cg_code\\ComputerGraphicsHW2_Q2\\ComputerGraphicsHW2_Q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54A2FFC5-1EDD-4C01-A531-1AD965170CEE}|ComputerGraphicsHW2_Q2\\ComputerGraphicsHW2_Q2.vcxproj|solutionrelative:ComputerGraphicsHW2_Q2\\ComputerGraphicsHW2_Q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main_EmptyViewer.cpp",
-              "DocumentMoniker": "C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphics\\Assignment1\\cg_code\\EmptyViewer\\Main_EmptyViewer.cpp",
-              "RelativeDocumentMoniker": "EmptyViewer\\Main_EmptyViewer.cpp",
-              "ToolTip": "C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphics\\Assignment1\\cg_code\\EmptyViewer\\Main_EmptyViewer.cpp",
-              "RelativeToolTip": "EmptyViewer\\Main_EmptyViewer.cpp",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ComputerGraphicsHW2_Q3.cpp",
+              "DocumentMoniker": "C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphicsHW2\\cg_code\\ComputerGraphicsHW2_Q3\\ComputerGraphicsHW2_Q3.cpp",
+              "RelativeDocumentMoniker": "ComputerGraphicsHW2_Q3\\ComputerGraphicsHW2_Q3.cpp",
+              "ToolTip": "C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphicsHW2\\cg_code\\ComputerGraphicsHW2_Q3\\ComputerGraphicsHW2_Q3.cpp",
+              "RelativeToolTip": "ComputerGraphicsHW2_Q3\\ComputerGraphicsHW2_Q3.cpp",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAJoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T07:19:16.797Z",
+              "WhenOpened": "2025-03-31T07:30:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComputerGraphicsHW2_Q1.cpp",
+              "DocumentMoniker": "C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphicsHW2\\cg_code\\ComputerGraphicsHW2_Q1\\ComputerGraphicsHW2_Q1.cpp",
+              "RelativeDocumentMoniker": "ComputerGraphicsHW2_Q1\\ComputerGraphicsHW2_Q1.cpp",
+              "ToolTip": "C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphicsHW2\\cg_code\\ComputerGraphicsHW2_Q1\\ComputerGraphicsHW2_Q1.cpp",
+              "RelativeToolTip": "ComputerGraphicsHW2_Q1\\ComputerGraphicsHW2_Q1.cpp",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAkwM8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T07:29:03.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComputerGraphicsHW2_Q2.cpp",
+              "DocumentMoniker": "C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphicsHW2\\cg_code\\ComputerGraphicsHW2_Q2\\ComputerGraphicsHW2_Q2.cpp",
+              "RelativeDocumentMoniker": "ComputerGraphicsHW2_Q2\\ComputerGraphicsHW2_Q2.cpp",
+              "ToolTip": "C:\\Users\\jack8\\OneDrive\\Documents\\GitHub\\ComputerGraphicsHW2\\cg_code\\ComputerGraphicsHW2_Q2\\ComputerGraphicsHW2_Q2.cpp",
+              "RelativeToolTip": "ComputerGraphicsHW2_Q2\\ComputerGraphicsHW2_Q2.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwNgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T07:24:05.552Z",
               "EditorCaption": ""
             }
           ]
